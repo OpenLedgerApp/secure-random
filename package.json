@@ -1,11 +1,11 @@
 {
   "name": "secure-random",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Normalize the creation of cryptographically strong random values.",
   "main": "./lib/secure-random.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jprichardson/secure-random"
+    "url": "https://github.com/lesharadkovich/secure-random"
   },
   "keywords": [
     "crypto",
